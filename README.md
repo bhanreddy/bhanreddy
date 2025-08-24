@@ -88,7 +88,7 @@ and firmly believe in **lifelong learning**. 🌱
 
 <br>
 <p align="center">
-  <img src="https://github.com/bhanreddy/bhanreddy/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/bhanreddy/bhanreddy/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <p align="center">

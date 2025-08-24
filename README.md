@@ -92,7 +92,7 @@ and firmly believe in **lifelong learning**. 🌱
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBqN3gyamQ5am5xZzZrd2hwdW9kd2pnbmFnbWF2NnpwY2g0bTR1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6t2BBlw98yC0WvL4T/giphy.gif">
 </p>
 
 ## &nbsp;🌍 Languages & Hobbies

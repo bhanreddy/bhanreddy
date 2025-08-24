@@ -91,9 +91,6 @@ and firmly believe in **lifelong learning**. 🌱
   <img src="https://github.com/bhanreddy/bhanreddy/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4pTf144YhT8q4b5S/giphy.gif">
-</p>
 ## &nbsp;🌍 Languages & Hobbies
 
 ### &nbsp;🗣️ Languages I Speak

@@ -92,9 +92,8 @@ and firmly believe in **lifelong learning**. 🌱
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBqN3gyamQ5am5xZzZrd2hwdW9kd2pnbmFnbWF2NnpwY2g0bTR1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6t2BBlw98yC0WvL4T/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNyeHF3aDk4cW15cnNhZHl0NzJpZHJuc2x2bWN1NTZtNnVldXU5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3tY9400Qf3T3w13i8/giphy.gif">
 </p>
-
 ## &nbsp;🌍 Languages & Hobbies
 
 ### &nbsp;🗣️ Languages I Speak

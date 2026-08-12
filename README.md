@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0500,100:F77F00&height=220&section=header&text=Bhanuprakash%20Reddy%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Co-Founder%20%26%20Tech%20Lead%20%40%20NexSyrus%20Pvt.%20Ltd.&descAlignY=56&descSize=18&descColor=F77F00" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0500,100:F77F00&height=220&section=header&text=Bhanuprakash%20Reddy%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Co-Founder%20%C2%B7%20Tech%20Lead%20%40%20NexSyrus%20Pvt.%20Ltd.&descAlignY=56&descSize=18&descColor=F77F00" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=F77F00&center=true&vCenter=true&width=680&lines=Building+multi-tenant+SaaS+for+Tier+2%2F3+Bharat;React+Native+%C2%B7+Node.js+%C2%B7+Supabase+%C2%B7+PostgreSQL;Shipping+SchoolIMS+%C2%B7+PaperForge+%C2%B7+Medical+POS+%C2%B7+IVF+HMS" alt="Typing SVG"/>
 

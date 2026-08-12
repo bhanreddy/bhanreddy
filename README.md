@@ -1,443 +1,451 @@
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--         HEADER — TOP WAVE (markdown)   -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ========================================================= -->
+
+<!--                 BHANUPRAKASH REDDY K                       -->
+
+<!--              PREMIUM GITHUB PROFILE README                 -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:180600,80:8B3A00,100:F77F00&height=140&section=header)
-
-</div>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--         HEADER — NAME (frozen SVG)     -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-![name](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=58&duration=1&pause=9999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=940&height=90&lines=Bhanuprakash+Reddy+K)
-
-![title](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=9999999&color=F77F00&center=true&vCenter=true&repeat=false&width=940&height=32&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+Co-Founder+%26+Tech+Lead+%40+NexSyrus+Pvt.+Ltd.+%7C+Telangana%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80)
-
-</div>
+<a href="https://github.com/bhanreddy">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:120800,70:8B3A00,100:F77F00&height=180&section=header&text=Bhanuprakash%20Reddy%20K&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Co-Founder%20%26%20Tech%20Lead%20%40%20NexSyrus%20Pvt.%20Ltd.&descAlignY=62&descSize=17&descColor=F7B267" width="100%"/>
+</a>
 
 <br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--         HEADER — ROLE TICKER           -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=F77F00&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Architecting+SchoolIMS+from+0+%E2%86%92+Production;Building+Multi-Tenant+SaaS+Systems;React+Native+%7C+Node.js+%7C+Supabase+%7C+PostgreSQL;Full+Stack+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+Cloud;Build+things+that+matter." alt="Typing animation"/>
 
-<div align="center">
+<br/><br/>
 
-![ticker](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=F77F00&center=true&vCenter=true&width=900&height=38&lines=%E2%9A%A1+Architecting+SchoolIMS+%E2%80%94+Multi-Tenant+SaaS+from+0+%E2%86%92+Production;%F0%9F%9B%A1%EF%B8%8F+Supabase+RLS+%7C+PostgreSQL+%7C+React+Native+%7C+Node.js+%7C+Expo;%F0%9F%94%A5+Full+Stack+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+Cloud+%C2%B7+System+Design;%F0%9F%9A%80+Ship+fast.+Architect+right.+Iterate+always.)
+<a href="https://github.com/bhanreddy">
+<img src="https://img.shields.io/badge/CO--FOUNDER-NexSyrus%20Pvt.%20Ltd.-F77F00?style=for-the-badge&labelColor=080808" />
+</a>
+<a href="https://github.com/bhanreddy">
+<img src="https://img.shields.io/badge/TECH%20LEAD-Full%20Stack%20%26%20Mobile-FFFFFF?style=for-the-badge&labelColor=080808" />
+</a>
+<a href="https://github.com/bhanreddy">
+<img src="https://img.shields.io/badge/SAAS%20ARCHITECT-Multi--Tenant%20RLS-F77F00?style=for-the-badge&labelColor=080808" />
+</a>
 
-</div>
+<br/><br/>
 
-<br/>
+<a href="https://github.com/bhanreddy">
+<img src="https://komarev.com/ghpvc/?username=bhanreddy&style=for-the-badge&color=F77F00&labelColor=080808&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/bhanreddy">
+<img src="https://img.shields.io/github/followers/bhanreddy?style=for-the-badge&color=F77F00&labelColor=080808&label=FOLLOWERS" />
+</a>
+<a href="https://github.com/bhanreddy">
+<img src="https://img.shields.io/github/stars/bhanreddy?style=for-the-badge&color=F77F00&labelColor=080808&label=STARS" />
+</a>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--         HEADER — IDENTITY BADGES       -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<br/><br/>
 
-<div align="center">
-
-![b1](https://img.shields.io/badge/Co--Founder-NexSyrus%20Pvt.%20Ltd.-F77F00?style=flat-square&labelColor=0d0d0d)&nbsp;![b2](https://img.shields.io/badge/Tech%20Lead-Full%20Stack%20%26%20Mobile-0d0d0d?style=flat-square&labelColor=F77F00)&nbsp;![b3](https://img.shields.io/badge/SaaS%20Architect-Multi--Tenant%20RLS-F77F00?style=flat-square&labelColor=0d0d0d)&nbsp;![b4](https://img.shields.io/badge/Telangana-India-0d0d0d?style=flat-square&labelColor=F77F00)&nbsp;![b5](https://img.shields.io/badge/Status-Open%20to%20Work-0d0d0d?style=flat-square&labelColor=238636)
-
-</div>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--         HEADER — STAT COUNTERS         -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-<table border="0" cellpadding="16" cellspacing="0">
-<tr>
-<td align="center"><h2>🏗️&nbsp;4+</h2><sub><b>Products Shipped</b></sub></td>
-<td align="center"><h2>🌐&nbsp;5</h2><sub><b>Live Domains</b></sub></td>
-<td align="center"><h2>🐛&nbsp;16</h2><sub><b>Bugs Killed</b></sub></td>
-<td align="center"><h2>📱&nbsp;Expo</h2><sub><b>React Native</b></sub></td>
-<td align="center"><h2>☁️&nbsp;0→1</h2><sub><b>SaaS Built</b></sub></td>
-</tr>
-</table>
+<a href="https://github.com/bhanreddy">GitHub</a>  •  <a href="https://www.linkedin.com/in/bhanuprakashreddygaru/">LinkedIn</a>  •  <a href="mailto:reddybhanu283@gmail.com">Email</a>  •  <a href="https://wa.me/919347556547">WhatsApp</a>
 
 </div>
 
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--         HEADER — SOCIAL ROW            -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40bhanreddy-FFFFFF?style=for-the-badge&logo=github&logoColor=0d0d0d&labelColor=FFFFFF)](https://github.com/bhanreddy)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F77F00?style=for-the-badge&logo=linkedin&logoColor=0d0d0d&labelColor=F77F00)](https://www.linkedin.com/in/bhanuprakashreddygaru/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Work%20With%20Me-0d0d0d?style=for-the-badge&logo=gmail&logoColor=F77F00&labelColor=0d0d0d)](mailto:reddybhanu283@gmail.com)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2093475%2056547-F77F00?style=for-the-badge&logo=whatsapp&logoColor=0d0d0d&labelColor=F77F00)](https://wa.me/919347556547)
-&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=bhanreddy&style=for-the-badge&color=F77F00&label=VIEWS&labelColor=0d0d0d)](https://github.com/bhanreddy)
-
-</div>
-
-<br/>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## `> whoami`
+⚡ whoami
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-```typescript
+I build systems, not just features.
+
+I'm Bhanuprakash Reddy K, Co-Founder & Tech Lead at NexSyrus Pvt. Ltd., working across product architecture, mobile applications, backend systems, databases, cloud infrastructure, and SaaS engineering.
+
 const bhanu = {
-  name    : "Bhanuprakash Reddy K",
-  role    : "Co-Founder & Tech Lead",
-  company : "NexSyrus Pvt. Ltd.",
+  role: "Co-Founder & Tech Lead",
+  company: "NexSyrus Pvt. Ltd.",
   location: "Telangana, India 🇮🇳",
 
-  currentFocus: [
-    "SchoolIMS — Multi-Tenant SaaS",
-    "Supabase RLS Architecture",
-    "React Native Premium UI",
-    "Cloud-Native DevOps",
+  building: [
+    "SchoolIMS",
+    "Multi-Tenant SaaS",
+    "Premium React Native Apps",
+    "Cloud-Native Systems"
+  ],
+
+  architecture: [
+    "PostgreSQL",
+    "Supabase RLS",
+    "REST APIs",
+    "Multi-Tenant Isolation"
   ],
 
   stack: {
-    mobile  : ["React Native", "Expo"],
-    backend : ["Node.js", "Express", "Supabase"],
-    database: ["PostgreSQL", "MongoDB"],
-    infra   : ["Docker", "Render", "Railway"],
+    frontend: ["React", "Next.js", "Tailwind"],
+    mobile: ["React Native", "Expo"],
+    backend: ["Node.js", "Express"],
+    database: ["PostgreSQL", "Supabase", "MongoDB"],
+    infra: ["Docker", "Render", "Railway"]
   },
 
-  philosophy: "Build things that matter.",
-  openTo    : ["Collabs", "Consulting", "Contracts"],
+  philosophy: "Build things that matter."
 };
-```
 
 </td>
-<td width="40%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" style="border-radius:16px"/>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Developer animation"/>
 
 <br/><br/>
 
-![Telangana](https://img.shields.io/badge/📍_Telangana,_India-000000?style=flat-square&labelColor=000&color=F77F00)
-![Available](https://img.shields.io/badge/🟢_Status-Available_for_Work-000000?style=flat-square&labelColor=000&color=28a745)
-![Experience](https://img.shields.io/badge/⚡_Startup_Founder-NexSyrus-F77F00?style=flat-square&labelColor=000)
+<img src="https://img.shields.io/badge/📍%20TELANGANA-INDIA-F77F00?style=for-the-badge&labelColor=080808"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🟢%20STATUS-OPEN%20TO%20WORK-28A745?style=for-the-badge&labelColor=080808"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🚀%20FOUNDER-NEXSYRUS-F77F00?style=for-the-badge&labelColor=080808"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🧠 core_stack
 
----
+<div align="center">
 
-## `> tech_stack --category all`
+Frontend & Mobile
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma&theme=dark" />
 
-**[ FRONTEND & MOBILE ]**
+<br/><br/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,figma&amp;theme=dark" />
-</p>
+Backend & Data
 
-**[ BACKEND & DATABASE ]**
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,prisma,redis&theme=dark" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,prisma,redis&amp;theme=dark" />
-</p>
+<br/><br/>
 
-**[ DEVOPS & TOOLING ]**
+DevOps & Tooling
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,firebase&amp;theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,firebase&theme=dark" />
 
-**[ LANGUAGES ]**
+<br/><br/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,cpp,bash&amp;theme=dark" />
-</p>
+Languages
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,cpp,bash&theme=dark" />
 
----
+</div>
 
-## `> ls ./projects --active`
-
-<br/>
+🏗️ active_projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏫 &nbsp;SchoolIMS
+🏫 SchoolIMS
 
-> **Multi-Tenant SaaS School Management Platform**
+Multi-Tenant SaaS School Management Platform
 
-A production-grade platform designed to digitize school operations from the ground up — attendance, fees, payroll, TC generation, role-based portals, and more.
+A production-grade platform designed to digitize school operations across attendance, fees, payroll, TC generation, role-based portals, and more.
 
-**Architecture Highlights:**
-- `schema.sql` driven multi-tenant RLS isolation
-- Super Admin Console with service-role-only access
-- Expo + React Native single-codebase, multi-build system
-- `SCHOOL_ID` build-time injection per client tenant
-- Glassmorphism UI system with role-aware theming
+Architecture
 
-```
-Stack  →  React Native · Expo · Node.js
-          Supabase · PostgreSQL · Express
-```
+🔐 Schema-driven RLS isolation
 
-![Status](https://img.shields.io/badge/Status-Active_Development-F77F00?style=flat-square&labelColor=000000)
-![Type](https://img.shields.io/badge/Type-B2B_SaaS-blue?style=flat-square&labelColor=000000)
-![Multi Tenant](https://img.shields.io/badge/Architecture-Multi--Tenant-purple?style=flat-square&labelColor=000000)
+🛡️ Service-role-only Super Admin access
+
+📱 Expo + React Native multi-build system
+
+🏫 SCHOOL_ID tenant configuration
+
+✨ Role-aware glassmorphism UI
+
+⚙️ Supabase + PostgreSQL backend
+
+<img src="https://img.shields.io/badge/ACTIVE%20DEVELOPMENT-F77F00?style=flat-square&labelColor=080808"/>
+<img src="https://img.shields.io/badge/B2B%20SAAS-8B3A00?style=flat-square&labelColor=080808"/>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🖥️ &nbsp;NexSyrus Founder Console
+🖥️ NexSyrus Founder Console
 
-> **Internal Ops Dashboard for Startup Management**
+Internal Operations & Finance Platform
 
-End-to-end operations dashboard handling GST lifecycle, expense tracking, income management, approval workflows, and CRM integration.
+A centralized operations dashboard for GST lifecycle, expenses, income, approvals, CRM integration, and financial audit workflows.
 
-**Features:**
-- Full GST input/output reconciliation engine
-- Multi-role RBAC — Founder · Admin · Ops
-- HubSpot CRM deep integration
-- 18 API routes, financial audit trail
-- Real-time approval pipelines
+Highlights
 
-```
-Stack  →  Next.js · Supabase · HubSpot CRM
-          PostgreSQL · REST API
-```
+💰 GST input/output reconciliation
 
-![Status](https://img.shields.io/badge/Status-Live-28a745?style=flat-square&labelColor=000000)
-![Type](https://img.shields.io/badge/Type-Internal_Tool-orange?style=flat-square&labelColor=000000)
-![Domain](https://img.shields.io/badge/Domain-founderconsole.nexsyrus.com-F77F00?style=flat-square&labelColor=000000)
+🔐 Founder / Admin / Ops RBAC
+
+🔗 HubSpot CRM integration
+
+🧾 Financial audit trail
+
+⚡ Approval pipelines
+
+🌐 REST API architecture
+
+<img src="https://img.shields.io/badge/LIVE-28A745?style=flat-square&labelColor=080808"/>
+<img src="https://img.shields.io/badge/INTERNAL%20TOOL-F77F00?style=flat-square&labelColor=080808"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌐 &nbsp;NexSyrus Web Ecosystem
+🌐 NexSyrus Web Ecosystem
 
-> **Multi-Product Marketing Presence**
+Multi-Product Marketing Infrastructure
 
-Shared component system powering the NexSyrus brand across 5 domains — nexsyrus.com + 4 product subdomains (School ERP, Medical ERP, Restaurant, E-Commerce).
+A shared web component system powering the NexSyrus brand across five active domains and multiple product verticals.
 
-```
-Stack  →  Next.js · Shared Component System
-          Per-site color token architecture
-```
+Architecture
 
-![Status](https://img.shields.io/badge/Status-Live-28a745?style=flat-square&labelColor=000000)
-![Domains](https://img.shields.io/badge/Domains-5_Active-F77F00?style=flat-square&labelColor=000000)
+⚛️ Next.js
+
+🧩 Shared component system
+
+🎨 Per-product design tokens
+
+🌍 Multi-domain deployment
+
+📈 Product-focused landing experiences
+
+<img src="https://img.shields.io/badge/5%20ACTIVE%20DOMAINS-F77F00?style=flat-square&labelColor=080808"/>
+<img src="https://img.shields.io/badge/LIVE-28A745?style=flat-square&labelColor=080808"/>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔔 &nbsp;FCM Push Notification Engine
+🔔 FCM Push Notification Engine
 
-> **Production Notification System**
+Production Notification Infrastructure
 
-Built and audited a 4-file FCM push notification pipeline using raw `porsager/postgres` driver — identified and fixed 16 confirmed bugs including a critical `sql()` vs `ANY($1)` error causing zero delivery.
+A production notification pipeline built with Node.js, FCM, PostgreSQL, and the raw porsager/postgres driver.
 
-```
-Stack  →  Node.js · FCM · PostgreSQL
-          porsager/postgres
-```
+Engineering Work
 
-![Status](https://img.shields.io/badge/Status-Shipped-28a745?style=flat-square&labelColor=000000)
-![Bugs Fixed](https://img.shields.io/badge/Bugs_Fixed-16_Critical-red?style=flat-square&labelColor=000000)
+🐛 16 confirmed bugs identified
+
+🚨 Critical SQL parameterization issue fixed
+
+📬 Push delivery pipeline audited
+
+🗄️ PostgreSQL-backed device management
+
+⚙️ Production-ready notification flow
+
+<img src="https://img.shields.io/badge/SHIPPED-28A745?style=flat-square&labelColor=080808"/>
+<img src="https://img.shields.io/badge/16%20BUGS%20FIXED-F77F00?style=flat-square&labelColor=080808"/>
+
+</td>
+
+</tr>
+</table>
+
+📊 engineering_metrics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+
+🏗️ 4+
+
+Products Shipped
+
+</td>
+<td align="center" width="180">
+
+🌐 5
+
+Live Domains
+
+</td>
+<td align="center" width="180">
+
+🐛 16
+
+Critical Bugs Fixed
+
+</td>
+<td align="center" width="180">
+
+📱 Expo
+
+React Native
+
+</td>
+<td align="center" width="180">
+
+0 → 1
+
+SaaS Built
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## `> git stats --user bhanreddy`
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=F77F00&amp;icon_color=F77F00&amp;text_color=ffffff&amp;bg_color=0d0d0d&amp;ring_color=F77F00&amp;border_radius=16&amp;include_all_commits=true&amp;count_private=true&amp;custom_title=Bhanu's+GitHub+Metrics" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&amp;theme=transparent&amp;hide_border=true&amp;background=0d0d0d&amp;ring=F77F00&amp;fire=F77F00&amp;currStreakLabel=F77F00&amp;sideLabels=ffffff&amp;dates=888888&amp;stroke=F77F00&amp;border_radius=16" height="180"/>
-
 </div>
 
-<br/>
+📈 github_activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&amp;layout=donut&amp;theme=transparent&amp;hide_border=true&amp;title_color=F77F00&amp;text_color=ffffff&amp;bg_color=0d0d0d&amp;border_radius=16&amp;langs_count=8&amp;custom_title=Languages+by+Commit" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&show_icons=true&theme=transparent&hide_border=true&title_color=F77F00&icon_color=F77F00&text_color=FFFFFF&bg_color=00000000&ring_color=F77F00&border_radius=18&include_all_commits=true&count_private=true&custom_title=Bhanu's%20GitHub%20Metrics" height="180" />
 
-</div>
+  
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanreddy&amp;bg_color=0d0d0d&amp;color=F77F00&amp;line=F77F00&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;border_radius=16&amp;area_color=F77F00&amp;custom_title=Contribution+Activity"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## `> achievements --display`
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆_SAAS_FOUNDER-Multi--Tenant_Platform_0_to_1-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🔥_MULTI--PRODUCT-4+_Products_Shipped-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_FULL_STACK-Mobile_+_Backend_+_DB-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&theme=transparent&hide_border=true&background=00000000&ring=F77F00&fire=F77F00&currStreakLabel=F77F00&sideLabels=FFFFFF&dates=888888&stroke=F77F00&border_radius=18" height="180" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🛡️_RLS_ARCHITECT-Supabase_Multi--Tenant_Security-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🐛_BUG_SLAYER-16_Critical_FCM_Bugs_Fixed-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_PROD_SHIPPED-Founder_Console_Live-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&layout=donut&theme=transparent&hide_border=true&title_color=F77F00&text_color=FFFFFF&bg_color=00000000&border_radius=18&langs_count=8&custom_title=Languages%20by%20Commit" height="210" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🌐_5_DOMAINS-NexSyrus_Web_Ecosystem-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🏫_EDTECH-School_Digitalization_SaaS-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📱_REACT_NATIVE-Expo_Multi--Build_Pipeline-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="160"><h1>4+</h1><b>Products Shipped</b></td>
-<td align="center" width="160"><h1>5</h1><b>Live Domains</b></td>
-<td align="center" width="160"><h1>16</h1><b>Critical Bugs Fixed</b></td>
-<td align="center" width="160"><h1>∞</h1><b>Lines Committed</b></td>
-<td align="center" width="160"><h1>0→1</h1><b>SaaS from Scratch</b></td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanreddy&bg_color=00000000&color=F77F00&line=F77F00&point=FFFFFF&area=true&hide_border=true&border_radius=18&area_color=F77F00&custom_title=Contribution%20Activity" width="94%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## `> cat ./languages.txt`
-
-<br/>
+🏆 achievements
 
 <div align="center">
 
-| Language | Level | Used For |
-|----------|-------|----------|
-| 🇬🇧 English | `████████████ Fluent` | Work, Code, Docs |
-| 🇮🇳 Telugu | `████████████ Native` | Thinking |
-| 🇮🇳 Kannada | `██████████░░ Fluent` | Regional ops |
-| 🇮🇳 Hindi | `████████░░░░ Conversational` | Business comms |
+<img src="https://img.shields.io/badge/🏆%20SAAS%20FOUNDER-Multi--Tenant%20Platform%200%20to%201-F77F00?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/🔥%20MULTI--PRODUCT-4%2B%20Products%20Shipped-F77F00?style=for-the-badge&labelColor=080808"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡%20FULL%20STACK-Mobile%20%2B%20Backend%20%2B%20DB-F77F00?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/🛡️%20RLS%20ARCHITECT-Supabase%20Security-F77F00?style=for-the-badge&labelColor=080808"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🐛%20BUG%20SLAYER-16%20Critical%20Bugs%20Fixed-F77F00?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/🚀%20PROD%20SHIPPED-Founder%20Console-F77F00?style=for-the-badge&labelColor=080808"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🌐%205%20DOMAINS-NexSyrus%20Ecosystem-F77F00?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/🏫%20EDTECH-School%20Digitalization-F77F00?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🗣️ languages
 
----
+<div align="center">
 
-## `> cat ./beyond_the_code.txt`
+Language
 
-<br/>
+Level
+
+Primary Use
+
+🇬🇧 English
+
+████████████ Fluent
+
+Work · Code · Documentation
+
+🇮🇳 Telugu
+
+████████████ Native
+
+Thinking
+
+🇮🇳 Kannada
+
+██████████░░ Fluent
+
+Regional Operations
+
+🇮🇳 Hindi
+
+████████░░░░ Conversational
+
+Business Communication
+
+</div>
+
+🎯 beyond_the_code
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
-<h3>🏋️</h3>
+
+<td align="center" width="220">
+<h2>🏋️</h2>
 <b>Fitness First</b><br/>
 <sub>Body recomp · Progressive overload · Regional diet optimization</sub>
 </td>
-<td align="center" width="200">
-<h3>🍳</h3>
+
+<td align="center" width="220">
+<h2>🍳</h2>
 <b>Professional Chef</b><br/>
-<sub>Cooking · Baking · Experimenting with regional recipes</sub>
+<sub>Cooking · Baking · Regional recipe experiments</sub>
 </td>
-<td align="center" width="200">
-<h3>📺</h3>
+
+<td align="center" width="220">
+<h2>🎬</h2>
 <b>TFI & Films</b><br/>
-<sub>Strategic storytelling · Visual world-building · Character arcs</sub>
+<sub>Storytelling · Visual world-building · Character arcs</sub>
 </td>
-<td align="center" width="200">
-<h3>📖</h3>
+
+<td align="center" width="220">
+<h2>📖</h2>
 <b>Deep Reader</b><br/>
-<sub>System design · Tech blogs · Startup strategy books</sub>
+<sub>System design · Tech blogs · Startup strategy</sub>
 </td>
+
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## `> connect --channel all`
-
-<br/>
+🤝 connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-bhanreddy-F77F00?style=for-the-badge&logo=github&logoColor=F77F00&labelColor=000000)](https://github.com/bhanreddy)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Bhanuprakash_Reddy-F77F00?style=for-the-badge&logo=linkedin&logoColor=F77F00&labelColor=000000)](https://www.linkedin.com/in/bhanuprakashreddygaru/)
-&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-reddybhanu283-F77F00?style=for-the-badge&logo=gmail&logoColor=F77F00&labelColor=000000)](mailto:reddybhanu283@gmail.com)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B91_93475_56547-F77F00?style=for-the-badge&logo=whatsapp&logoColor=F77F00&labelColor=000000)](https://wa.me/919347556547)
+<a href="https://github.com/bhanreddy">
+<img src="https://img.shields.io/badge/GITHUB-bhanreddy-F77F00?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhanuprakashreddygaru/">
+<img src="https://img.shields.io/badge/LINKEDIN-Bhanuprakash%20Reddy-F77F00?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=080808"/>
+</a>
+
+<a href="mailto:reddybhanu283@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-reddybhanu283-F77F00?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=080808"/>
+</a>
+
+<a href="https://wa.me/919347556547">
+<img src="https://img.shields.io/badge/WHATSAPP-+91%2093475%2056547-F77F00?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=080808"/>
+</a>
+
+<br/><br/>
+
+Available for
+
+COLLABORATIONS   CONSULTING   CONTRACTS   PRODUCT ENGINEERING
 
 </div>
 
-<br/>
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Don't just write code. Build systems that outlast you."   ║
-║                                                       — Bhanu ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+> philosophy
 
-</div>
+"Don't just write code. Build systems that outlast you."
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&amp;color=0:F77F00,50:1a0500,100:000000&amp;height=120&amp;section=footer&amp;reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:F77F00,50:1a0500,100:000000&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>
+
 </div>

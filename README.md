@@ -1,74 +1,28 @@
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<!-- ULTRA PREMIUM PROFILE — OBSIDIAN × EMBER -->
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0500,100:F77F00&height=220&section=header&text=Bhanuprakash%20Reddy%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Co-Founder%20%26%20Tech%20Lead%20%40%20NexSyrus%20Pvt.%20Ltd.&descAlignY=56&descSize=18&descColor=F77F00" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=F77F00&center=true&vCenter=true&width=680&lines=Building+multi-tenant+SaaS+for+Tier+2%2F3+Bharat;React+Native+%C2%B7+Node.js+%C2%B7+Supabase+%C2%B7+PostgreSQL;Shipping+SchoolIMS+%C2%B7+PaperForge+%C2%B7+Medical+POS+%C2%B7+IVF+HMS" alt="Typing SVG"/>
 
-</div>
+<br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<!--         HEADER — NAME (frozen SVG)     -->
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-
-
-
+<img src="https://img.shields.io/badge/DPIIT-Startup_India_Recognized-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/LOCATION-Telangana,_India-F77F00?style=for-the-badge&labelColor=0d0d0d&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-Open_to_Collabs-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
 
 </div>
 
 <br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<!--         HEADER — ROLE TICKER           -->
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
 <div align="center">
 
-
-
-</div>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<!--         HEADER — IDENTITY BADGES       -->
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-    
-
-</div>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<!--         HEADER — STAT COUNTERS         -->
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-<table border="0" cellpadding="16" cellspacing="0">
+<table border="0">
 <tr>
-<td align="center"><h2>🏗️&nbsp;4+</h2><sub><b>Products Shipped</b></sub></td>
-<td align="center"><h2>🌐&nbsp;5</h2><sub><b>Live Domains</b></sub></td>
-<td align="center"><h2>🐛&nbsp;16</h2><sub><b>Bugs Killed</b></sub></td>
-<td align="center"><h2>📱&nbsp;Expo</h2><sub><b>React Native</b></sub></td>
-<td align="center"><h2>☁️&nbsp;0→1</h2><sub><b>SaaS Built</b></sub></td>
+<td align="center" width="150"><h2>6</h2><sub><b>Products Built</b></sub></td>
+<td align="center" width="150"><h2>5</h2><sub><b>Live Domains</b></sub></td>
+<td align="center" width="150"><h2>10+</h2><sub><b>Schools Live</b></sub></td>
+<td align="center" width="150"><h2>3K+</h2><sub><b>Students Served</b></sub></td>
+<td align="center" width="150"><h2>0→1</h2><sub><b>SaaS from Scratch</b></sub></td>
 </tr>
 </table>
 
@@ -76,385 +30,232 @@
 
 <br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<!--         HEADER — SOCIAL ROW            -->
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
 <div align="center">
-
-Have an interesting product or difficult engineering problem?
-
-Let’s build something that deserves to exist.
-
-<br/>
-
-    
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 </div>
 
-<br/>
-
-⚡ Building software at the intersection of product, architecture, experience, and execution.
-
-<div align="center">
-
-PRODUCT ENGINEERING · SYSTEM DESIGN · SAAS · MOBILE · BACKEND · CLOUD
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-01 // IDENTITY
+## 01 · Identity
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
+```js
 const bhanu = {
-  name    : "Bhanuprakash Reddy K",
-  role    : "Co-Founder & Tech Lead",
-  company : "NexSyrus Pvt. Ltd.",
-  location: "Telangana, India 🇮🇳",
+  name       : "Bhanuprakash Reddy K",
+  role       : "Co-Founder & Tech Lead",
+  company    : "NexSyrus Pvt. Ltd.",
+  location   : "Telangana, India 🇮🇳",
+  recognition: "DPIIT Startup India",
 
   currentFocus: [
-    "SchoolIMS — Multi-Tenant SaaS",
-    "Supabase RLS Architecture",
-    "React Native Premium UI",
-    "Cloud-Native DevOps",
+    "SchoolIMS   — scaling multi-tenant RLS + payments",
+    "PaperForge  — RAG/LLM question paper engine",
+    "IVF HMS     — white-label hospital management",
+    "Founder Console — multi-Supabase fleet ops",
   ],
 
   stack: {
-    mobile  : ["React Native", "Expo"],
-    backend : ["Node.js", "Express", "Supabase"],
-    database: ["PostgreSQL", "MongoDB"],
-    infra   : ["Docker", "Render", "Railway"],
+    mobile  : ["React Native", "Expo", "TypeScript"],
+    backend : ["Node.js", "Express", "NestJS", "Supabase"],
+    database: ["PostgreSQL", "pgvector", "MongoDB"],
+    infra   : ["Docker", "GitHub Actions", "Tauri", "Render"],
   },
 
-  philosophy: "Build things that matter.",
+  philosophy: "Build things that survive contact with a ₹10,000 Android phone.",
   openTo    : ["Collabs", "Consulting", "Contracts"],
 };
+```
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="42%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" style="border-radius:16px"/>
-
-<br/><br/>
-
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:16px"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
+</div>
 
-02 // ENGINEERING ARSENAL
+## 02 · Engineering Arsenal
 
-<br/>
-
-[ FRONTEND & MOBILE ]
-
+**Frontend & Mobile**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,figma&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,figma&theme=dark"/>
 </p>
 
-[ BACKEND & DATABASE ]
-
+**Backend & Database**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,prisma,redis&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase,postgres,mongodb,prisma,redis&theme=dark"/>
 </p>
 
-[ DEVOPS & TOOLING ]
-
+**DevOps & Tooling**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,firebase&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman,firebase&theme=dark"/>
 </p>
 
-[ LANGUAGES ]
-
+**Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,cpp,bash&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,cpp,bash&theme=dark"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
+</div>
 
-03 // FLAGSHIP BUILDS
+## 03 · Flagship Builds
 
+<details open>
+<summary><b>🏫 SchoolIMS — Multi-Tenant School Management SaaS</b> <sub>(flagship)</sub></summary>
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Production platform digitizing school operations end-to-end — currently live across 10+ schools serving 3,000+ students.
 
-🏫  SchoolIMS
+- `schema.sql`-driven multi-tenant RLS isolation; `school_id` always derived server-side from JWT, never trusted from the client
+- Cashfree payment gateway per-school merchant accounts, AES-256-GCM encrypted credentials, HMAC-verified webhooks
+- Per-school EAS build pipeline (Expo APKs) plus a Tauri-packaged Windows desktop app, both on GitHub Actions CI
+- Feature-flag system with server-side enforcement, multi-account "Instagram-style" login, Telugu multilingual push notifications
 
-Multi-Tenant SaaS School Management Platform
+**Stack:** React Native · Expo · Node.js · Supabase · PostgreSQL
 
-A production-grade platform designed to digitize school operations from the ground up — attendance, fees, payroll, TC generation, role-based portals, and more.
+</details>
 
-Architecture Highlights:
-
-schema.sql driven multi-tenant RLS isolation
-
-Super Admin Console with service-role-only access
-
-Expo + React Native single-codebase, multi-build system
-
-SCHOOL_ID build-time injection per client tenant
-
-Glassmorphism UI system with role-aware theming
-
-Stack  →  React Native · Expo · Node.js
-          Supabase · PostgreSQL · Express
-
-
-
-</td>
-<td width="50%" valign="top">
-
-🖥️  NexSyrus Founder Console
-
-Internal Ops Dashboard for Startup Management
-
-End-to-end operations dashboard handling GST lifecycle, expense tracking, income management, approval workflows, and CRM integration.
-
-Features:
-
-Full GST input/output reconciliation engine
-
-Multi-role RBAC — Founder · Admin · Ops
-
-HubSpot CRM deep integration
-
-18 API routes, financial audit trail
-
-Real-time approval pipelines
-
-Stack  →  Next.js · Supabase · HubSpot CRM
-          PostgreSQL · REST API
-
-
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🌐  NexSyrus Web Ecosystem
-
-Multi-Product Marketing Presence
-
-Shared component system powering the NexSyrus brand across 5 domains — nexsyrus.com + 4 product subdomains (School ERP, Medical ERP, Restaurant, E-Commerce).
-
-Stack  →  Next.js · Shared Component System
-          Per-site color token architecture
-
-
-
-</td>
-<td width="50%" valign="top">
-
-🔔  FCM Push Notification Engine
-
-Production Notification System
-
-Built and audited a 4-file FCM push notification pipeline using raw porsager/postgres driver — identified and fixed 16 confirmed bugs including a critical sql() vs ANY($1) error causing zero delivery.
-
-Stack  →  Node.js · FCM · PostgreSQL
-          porsager/postgres
-
-
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-04 // ENGINEERING SIGNAL
-
+<details>
+<summary><b>📝 PaperForge — RAG/LLM Question Paper Engine</b></summary>
 <br/>
+
+Generates exam question papers on a retrieval-augmented generation stack, built for accuracy against a locked academic taxonomy.
+
+- RAG engine on pgvector with a dual-DB split — operational DB and a write-only training corpus
+- Bloom's taxonomy vocabulary locked into generation to keep question difficulty consistent
+- Claymorphic UI, built out through a phased 5B–11 delivery plan
+
+**Stack:** Node.js · pgvector · PostgreSQL · LLM APIs
+
+</details>
+
+<details>
+<summary><b>💊 Medical POS — Pharmacy & Clinic Management</b></summary>
+<br/>
+
+Point-of-sale and operations system for pharmacies and clinics.
+
+- Rebuilt from scratch as server-first (online-first with optimistic UI), removing offline-sync complexity entirely
+- Unified POS, inventory, and clinic workflow in one system
+
+**Stack:** React Native / Web · Node.js · Supabase
+
+</details>
+
+<details>
+<summary><b>🏥 IVF HMS — White-Label Fertility & IVF Hospital Management</b></summary>
+<br/>
+
+Premium hospital management system for fertility clinics, built as one shared product with per-hospital branding.
+
+- Universal codebase across Android, iOS, tablet, and web
+- Serves doctors, embryologists, nurses, counsellors, front-desk, pharmacists, billing staff, and patients in one workflow
+- Clinically professional claymorphism/glassmorphism UI — engineered to hold up on low-end Android and weak networks
+
+**Stack:** React Native Expo · TypeScript · NestJS
+
+</details>
+
+<details>
+<summary><b>🖥️ Founder Console — Internal Ops Dashboard</b></summary>
+<br/>
+
+Manages NexSyrus's own multi-product SaaS fleet.
+
+- Cluster architecture across six migrated phases to manage multiple Supabase instances
+- GST billing engine — tax invoices vs. plain receipts, sequential invoice numbering with row-level locking
+- HubSpot CRM integration across 18 API routes with a full financial audit trail
+
+**Stack:** Next.js · Supabase · PostgreSQL · HubSpot CRM
+
+</details>
+
+<details>
+<summary><b>⚡ DispatchFlow — Bulk WhatsApp Credential Dispatch</b></summary>
+<br/>
+
+Single-file, offline-first tool for handing out student login credentials at scale.
+
+- Zero backend — no server, no data persistence, nothing sent automatically; the operator still taps send
+- Imports Excel/CSV/TSV/JSON or pasted rows, auto-maps school credential formats, opens prefilled `wa.me` links one record at a time
+
+**Stack:** Vanilla HTML/JS · SheetJS
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
+</div>
+
+## 04 · Engineering Signal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=F77F00&amp;icon_color=F77F00&amp;text_color=ffffff&amp;bg_color=0d0d0d&amp;ring_color=F77F00&amp;border_radius=20&amp;include_all_commits=true&amp;count_private=true&amp;custom_title=Bhanu's+GitHub+Metrics" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&amp;theme=transparent&amp;hide_border=true&amp;background=0d0d0d&amp;ring=F77F00&amp;fire=F77F00&amp;currStreakLabel=F77F00&amp;sideLabels=ffffff&amp;dates=888888&amp;stroke=F77F00&amp;border_radius=20" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&show_icons=true&theme=transparent&hide_border=true&title_color=F77F00&icon_color=F77F00&text_color=ffffff&bg_color=0d0d0d&ring_color=F77F00&border_radius=20&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&theme=transparent&hide_border=true&background=0d0d0d&ring=F77F00&fire=F77F00&currStreakLabel=F77F00&sideLabels=ffffff&dates=888888&stroke=F77F00&border_radius=20" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&layout=donut&theme=transparent&hide_border=true&title_color=F77F00&text_color=ffffff&bg_color=0d0d0d&border_radius=20&langs_count=8" height="200"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanreddy&bg_color=0d0d0d&color=F77F00&line=F77F00&point=ffffff&area=true&hide_border=true&border_radius=20&area_color=F77F00" width="100%"/>
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
+</div>
+
+## 05 · Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&amp;layout=donut&amp;theme=transparent&amp;hide_border=true&amp;title_color=F77F00&amp;text_color=ffffff&amp;bg_color=0d0d0d&amp;border_radius=20&amp;langs_count=8&amp;custom_title=Languages+by+Commit" height="200"/>
+<img src="https://img.shields.io/badge/English-Fluent-F77F00?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Telugu-Native-F77F00?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Kannada-Fluent-F77F00?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Hindi-Conversational-F77F00?style=flat-square&labelColor=0d0d0d"/>
 
 </div>
-
-<br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanreddy&amp;bg_color=0d0d0d&amp;color=F77F00&amp;line=F77F00&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;border_radius=20&amp;area_color=F77F00&amp;custom_title=Contribution+Activity"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-05 // SHIPPED SIGNALS
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆_SAAS_FOUNDER-Multi--Tenant_Platform_0_to_1-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🔥_MULTI--PRODUCT-4+_Products_Shipped-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_FULL_STACK-Mobile_+_Backend_+_DB-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🛡️_RLS_ARCHITECT-Supabase_Multi--Tenant_Security-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🐛_BUG_SLAYER-16_Critical_FCM_Bugs_Fixed-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_PROD_SHIPPED-Founder_Console_Live-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🌐_5_DOMAINS-NexSyrus_Web_Ecosystem-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🏫_EDTECH-School_Digitalization_SaaS-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📱_REACT_NATIVE-Expo_Multi--Build_Pipeline-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="160"><h1>4+</h1><b>Products Shipped</b></td>
-<td align="center" width="160"><h1>5</h1><b>Live Domains</b></td>
-<td align="center" width="160"><h1>16</h1><b>Critical Bugs Fixed</b></td>
-<td align="center" width="160"><h1>∞</h1><b>Lines Committed</b></td>
-<td align="center" width="160"><h1>0→1</h1><b>SaaS from Scratch</b></td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-06 // CURRENT MISSION
-
-<div align="center">
-
-🏫 SCHOOLIMS
-
-Building a complete digital operating system for schools.
-
-ATTENDANCE · FEES · PAYROLL · ACADEMICS · COMMUNICATION
-
-TRANSPORT · NOTIFICATIONS · ROLE PORTALS · ANALYTICS · AUTOMATION
-
-<br/>
-
-From multi-tenant data isolation to premium mobile UX — built as one production system, not a collection of disconnected features.
-
-</div>
-
-07 // LANGUAGES
-
-<br/>
-
-<div align="center">
-
-Language
-
-Level
-
-Used For
-
-🇬🇧 English
-
-████████████ Fluent
-
-Work, Code, Docs
-
-🇮🇳 Telugu
-
-████████████ Native
-
-Thinking
-
-🇮🇳 Kannada
-
-██████████░░ Fluent
-
-Regional ops
-
-🇮🇳 Hindi
-
-████████░░░░ Conversational
-
-Business comms
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-08 // BEYOND CODE
-
-<br/>
+## 06 · Beyond Code
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
-<h3>🏋️</h3>
-<b>Fitness First</b><br/>
-<sub>Body recomp · Progressive overload · Regional diet optimization</sub>
-</td>
-<td align="center" width="200">
-<h3>🍳</h3>
-<b>Professional Chef</b><br/>
-<sub>Cooking · Baking · Experimenting with regional recipes</sub>
-</td>
-<td align="center" width="200">
-<h3>📺</h3>
-<b>TFI & Films</b><br/>
-<sub>Strategic storytelling · Visual world-building · Character arcs</sub>
-</td>
-<td align="center" width="200">
-<h3>📖</h3>
-<b>Deep Reader</b><br/>
-<sub>System design · Tech blogs · Startup strategy books</sub>
-</td>
+<td align="center" width="200">🏋️<br/><b>Fitness First</b><br/><sub>Body recomp · progressive overload</sub></td>
+<td align="center" width="200">🍳<br/><b>Professional Chef</b><br/><sub>Cooking, baking, regional recipes</sub></td>
+<td align="center" width="200">📺<br/><b>TFI & Films</b><br/><sub>Storytelling · world-building</sub></td>
+<td align="center" width="200">📖<br/><b>Deep Reader</b><br/><sub>System design · startup strategy</sub></td>
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
+</div>
 
-09 // CONNECT
-
-<br/>
+## 07 · Connect
 
 <div align="center">
 
-Have an interesting product or difficult engineering problem?
+Have a hard product or engineering problem worth solving? Let's build something that deserves to exist.
 
-Let’s build something that deserves to exist.
+<a href="https://nexsyrus.com"><img src="https://img.shields.io/badge/Website-nexsyrus.com-F77F00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d"/></a>
+<a href="https://github.com/bhanreddy"><img src="https://img.shields.io/badge/GitHub-bhanreddy-F77F00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/></a>
 
-<br/>
-
-   
+<sub>_LinkedIn / email / Twitter badges intentionally left out — drop the handles in and I'll wire them up._</sub>
 
 </div>
 
@@ -462,17 +263,9 @@ Let’s build something that deserves to exist.
 
 <div align="center">
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Don't just write code. Build systems that outlast you."   ║
-║                                                       — Bhanu ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+> **"Don't just write code. Build systems that outlast you."**
+> — Bhanu
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&amp;color=0:F77F00,50:1a0500,100:000000&amp;height=150&amp;section=footer&amp;reversal=true"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F77F00,50:1a0500,100:0d0d0d&height=150&section=footer"/>
